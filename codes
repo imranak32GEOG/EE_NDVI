@@ -4,7 +4,7 @@ import geemap
 
 ee.Authenticate()
 
-ee.Initialize (project='ee-imranak32')
+ee.Initialize (project='ee-your GEE ID')# your GEE account ID
 
 Map= geemap.Map()
 Map
