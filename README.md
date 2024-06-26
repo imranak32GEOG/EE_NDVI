@@ -7,7 +7,7 @@ import geemap
 
 ee.Authenticate()
 
-ee.Initialize (project='ee-imranak32')
+ee.Initialize (project='ee-imran*********')#your GEE project ID
 
 
 # Create a map
