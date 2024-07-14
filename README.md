@@ -34,3 +34,6 @@ Map.addLayer(ndvi, vis)
 
 # Display the map
 Map
+
+![NDVICOLAB](https://github.com/user-attachments/assets/24989d1a-138a-4653-a7f8-eff8d9386014)
+
